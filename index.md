@@ -1,37 +1,68 @@
-## Welcome to GitHub Pages
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>IPET-爱宠之家</h1>
+      <p><b>作者 周龙海</b></p>
+      <p><b>石家庄铁道大学信息科学与技术学院</b></p>
+      <p><b>邮箱：785553299@qq.com</b></p>
+      <p><b>地址：河北省石家庄市长安区北二环东路17号石家庄铁道大学</b></p>
+    </td>
+    <td width="25%">
+      <img src="/IPET.png" width="100%">
+    </td>
+  </tr>
+</table>
+# 项目脑图
+<table border="0">
+  <tr>
+    <td width="100%">
+      <p><b>GPA：2.8</b></p>
+      <img src="/xmind.png" width="50%">
+      <p><b>项目脑图</b></p>
+    </td>
+  </tr>
+</table>
 
-You can use the [editor on GitHub](https://github.com/Zhoulonghai/xmind.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Zhoulonghai/xmind.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# 项目部分原型图
+<table border="0">
+  <tr>
+    <td width="100%">
+      <img src="/1_首页.png.jpg" width="50%">
+      <p><b>首页</b></p>
+      <img src="/2_功能.png" width="50%">
+      <p><b>功能</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <img src="/2-1_寄养.png" width="50%">
+      <p><b>寄养</b></p>
+      <img src="/2-1-1_详情.png" width="50%">
+      <p><b>详情</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <img src="/4_动态.png" width="50%">
+      <p><b>动态</b></p>
+      <img src="/5_我的.png" width="50%">
+      <p><b>我的</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <img src="/5-1_我的宠物.png" width="50%">
+      <p><b>我的宠物</b></p>
+      <img src="/5-1-1_寄养详情.png" width="50%">
+      <p><b>寄养详情</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <img src="/5-2_我的代养.png" width="50%">
+      <p><b>我的代养</b></p>
+      <img src="/5-2-1_代养详情.png" width="50%">
+      <p><b>代养详情</b></p>
+    </td>
+  </tr>
+</table>
